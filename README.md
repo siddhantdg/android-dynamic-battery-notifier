@@ -1,7 +1,6 @@
 # Dynamic Battery Notifier for Android
 
 A Tasker-based utility to provide advanced, customizable, and beautifully animated battery notifications for Android devices.
-
 <p align="center">
   <video width="432" autoplay loop muted playsinline>
     <source src="https://raw.githubusercontent.com/siddhantdg/android-dynamic-battery-notifier/main/demo.mp4" type="video/mp4">
