@@ -4,7 +4,7 @@ A Tasker-based utility to provide advanced, customizable, and beautifully animat
 
 <p align="center">
   <video width="432" autoplay loop muted playsinline>
-    <source src="demo.mp4" type="video/mp4">
+    <source src="https://github.com/siddhantdg/android-dynamic-battery-notifier/raw/refs/heads/main/demo.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
