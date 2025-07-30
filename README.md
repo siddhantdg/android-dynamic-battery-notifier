@@ -6,7 +6,7 @@ A Tasker-based utility to provide advanced, customizable, and beautifully animat
 
 A live demonstration of the Dynamic Battery Notifier in action. The video below showcases the two primary alert types: the screen-on alert for discharging states and the screen-off wake alert for charging states.
 
-![Dynamic Battery Notifier Demo](https://github.com/user-attachments/assets/f20a16d6-0084-4a7a-af12-c5b1c85af4be)
+![Dynamic Battery Notifier Demo]https://github.com/user-attachments/assets/f20a16d6-0084-4a7a-af12-c5b1c85af4be
 
 ## The Problem
 Standard Android battery notifications are often generic and lack context. They typically provide a single, simple alert for low battery and full charge, without distinguishing between different levels of urgency or providing a rich user experience.
